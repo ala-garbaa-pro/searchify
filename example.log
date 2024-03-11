@@ -1,0 +1,21 @@
+
+@RogerRiggs This change now passes all automated pre-integration checks.
+
+ℹ️ This project also has non-automated pre-integration requirements. Please see the file CONTRIBUTING.md for details.
+
+After integration, the commit message for the final commit will be:
+
+8327702: [lworld] Update java.lang.Object mention of value classes
+
+Reviewed-by: mchung
+You can use pull request commands such as /summary, /contributor and /issue to adjust it as needed.
+
+At the time when this comment was updated there had been 2 new commits pushed to the lworld branch:
+
+3ee4244: 8327636: [lworld] Make primitive wrappers be value class if preview feature is enabled
+9c21d4c: 8326990: [lworld] make value classes a preview feature
+Please see this link for an up-to-date comparison between the source branch of this pull request and the lworld branch.
+As there are no conflicts, your changes will automatically be rebased on top of these commits when integrating. If you prefer to avoid this automatic rebasing, please check the documentation for the /integrate command for further details.
+
+➡️ To integrate this PR with the above commit message to the lworld branch, type /integrate in a new comment.
+

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="searchify:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/searchify_jar</output-path>
+    <root id="archive" name="searchify.jar">
+      <element id="module-output" name="searchify" />
+    </root>
+  </artifact>
+</component>
